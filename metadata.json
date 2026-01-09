@@ -1,0 +1,8 @@
+{
+  "name": "AI Security Monitor",
+  "description": "An intelligent security application that uses your device's camera and microphone to detect motion and sound, automatically recording events. It leverages AI to analyze and describe the contents of the recorded clips.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
